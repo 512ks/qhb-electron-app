@@ -30,7 +30,7 @@
   "build": {
     "appId": "com.kyee.qhb",
     "extraResources": [
-      "resources/logo*.ico"
+      "logo*.ico"
     ],
     "win": {
       "publisherName": "Kyee Inc"
@@ -39,9 +39,9 @@
       "oneClick": false,
       "perMachine": true,
       "allowToChangeInstallationDirectory": true,
-      "installerIcon": "logo-128.ico",
-      "uninstallerIcon": "logo-128.ico",
-      "installerHeaderIcon": "logo-128.ico",
+      "installerIcon": "logo.ico",
+      "uninstallerIcon": "logo.ico",
+      "installerHeaderIcon": "logo.ico",
       "uninstallDisplayName": "趣护帮",
       "installerLanguages": "zh_CN",
       "language": "0x0804"
