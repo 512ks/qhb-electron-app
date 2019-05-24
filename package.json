@@ -39,9 +39,9 @@
       "oneClick": false,
       "perMachine": true,
       "allowToChangeInstallationDirectory": true,
-      "installerIcon": "logo.ico",
-      "uninstallerIcon": "logo.ico",
-      "installerHeaderIcon": "logo.ico",
+      "installerIcon": "logo-128.ico",
+      "uninstallerIcon": "logo-128.ico",
+      "installerHeaderIcon": "logo-128.ico",
       "uninstallDisplayName": "趣护帮",
       "installerLanguages": "zh_CN",
       "language": "0x0804"
