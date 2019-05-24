@@ -21,7 +21,7 @@ function sendStatusToWindow(text) {
 function createDefaultWindow() {
   win = new BrowserWindow({
     title: '趣护帮',
-    icon: path.resolve('resources/logo.ico'),
+    icon: path.resolve('resources/logo-128.ico'),
     show: false,
     autoHideMenuBar: true,
     webPreferences: {
