@@ -40,7 +40,7 @@ function createDefaultWindow() {
     win = null;
   });
 
-  win.loadURL('https://dev.quhubang.com');
+  win.loadURL('https://www.quhubang.com');
 
   return win;
 }
